@@ -243,8 +243,10 @@ main, .site-footer, .kat-mbar { position: relative; z-index: 1; }
 .hw-dim-right .dl { width: 1px; height: auto; }
 .hw-dim-right span { writing-mode: vertical-rl; }
 .hw-chip { position: absolute; display: flex; flex-direction: column; opacity: var(--tb, 0); }
-.chip { display: flex; align-items: center; gap: 10px; padding: 10px 16px; border-radius: 999px; background: rgba(250, 251, 251, .94); border: 1px solid var(--line); font: 500 12px/1 var(--f-mono); letter-spacing: .08em; color: var(--ink); white-space: nowrap; }
-.chip i { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
+/* Oznake rastu i smanjuju se sa prozorom, da se ne preklope na nižim ekranima. */
+.chip { display: flex; align-items: center; gap: .84em; padding: .84em 1.34em; border-radius: 999px; background: rgba(250, 251, 251, .94); border: 1px solid var(--line); font: 500 clamp(9.5px, calc(var(--B) * .0208), 12px)/1 var(--f-mono); letter-spacing: .08em; color: var(--ink); white-space: nowrap; }
+.chip i { flex: none; width: .58em; height: .58em; border-radius: 50%; background: var(--accent); }
+@media (max-height: 640px) and (min-width: 900px) { .hw-chip-r { display: none; } }
 .chip-stem { width: 1px; height: 40px; background: var(--accent); }
 .hw-chip-l { left: 6%; top: -104px; align-items: flex-start; transform: translateY(calc((1 - var(--tb, 0)) * 12px)); }
 .hw-chip-l .chip-stem { margin-left: 22px; }
