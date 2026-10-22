@@ -1,0 +1,14 @@
+{
+  "name": "kota-pvc-stolarija",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Statički sajt za PVC stolariju: HTML, CSS i JavaScript bez frejmvorka.",
+  "type": "module",
+  "scripts": {
+    "slike": "node scripts/slike.mjs",
+    "fontovi": "node scripts/fontovi.mjs",
+    "build": "node src/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "start": "node src/build.mjs && node scripts/serve.mjs"
+  }
+}

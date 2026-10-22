@@ -1,0 +1,21 @@
+{
+  "name": "KOTA stolarija",
+  "short_name": "KOTA",
+  "lang": "sr-Latn",
+  "start_url": "/kota-pvc-stolarija/",
+  "display": "browser",
+  "background_color": "#EDF0F1",
+  "theme_color": "#EDF0F1",
+  "icons": [
+    {
+      "src": "/kota-pvc-stolarija/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/kota-pvc-stolarija/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

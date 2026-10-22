@@ -1,0 +1,368 @@
+{
+  "bela-balkonska-vrata-kuhinja": {
+    "w": 1067,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1067
+    ]
+  },
+  "bela-ulazna-vrata-hodnik": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "bele-spoljne-roletne": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "beli-prozor-tamni-zid-zelenilo": {
+    "w": 1067,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1067
+    ]
+  },
+  "beli-pvc-prozor-na-kip-jesen": {
+    "w": 1600,
+    "h": 1068,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "dnevna-soba-dva-velika-prozora": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "hero-dnevna-soba": {
+    "w": 1125,
+    "h": 1500,
+    "widths": [
+      480,
+      800,
+      1125
+    ]
+  },
+  "hero-krilo-desno-unutra": {
+    "w": 346,
+    "h": 574,
+    "widths": [
+      346
+    ]
+  },
+  "hero-krilo-desno": {
+    "w": 346,
+    "h": 574,
+    "widths": [
+      346
+    ]
+  },
+  "hero-krilo-levo-unutra": {
+    "w": 346,
+    "h": 574,
+    "widths": [
+      346
+    ]
+  },
+  "hero-krilo-levo": {
+    "w": 346,
+    "h": 574,
+    "widths": [
+      346
+    ]
+  },
+  "hero-ram-prozora": {
+    "w": 738,
+    "h": 618,
+    "widths": [
+      738
+    ]
+  },
+  "hero-spavaca-soba-pogled-na-jezero": {
+    "w": 1800,
+    "h": 1013,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600,
+      1800
+    ]
+  },
+  "klizna-vrata-unutrasnje-dvoriste": {
+    "w": 1600,
+    "h": 1071,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "klizni-stakleni-zid-dnevna-soba": {
+    "w": 1600,
+    "h": 1068,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "kota-70-klasik": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "kota-76-antracit": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "kota-76-kombi": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "kota-76-termo-krilo-otvoreno": {
+    "w": 872,
+    "h": 708,
+    "widths": [
+      480,
+      800,
+      872
+    ]
+  },
+  "kota-76-termo-potpuno-otvoren": {
+    "w": 1200,
+    "h": 649,
+    "widths": [
+      480,
+      800,
+      1200
+    ]
+  },
+  "kota-76-termo-zatvoren": {
+    "w": 872,
+    "h": 708,
+    "widths": [
+      480,
+      800,
+      872
+    ]
+  },
+  "kota-76-zlatni-hrast": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "kota-82-premium": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "kota-bela-ulazna-vrata": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "kota-linea-ulazna-vrata": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "kota-psk-paralelno-klizni": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "kvaka-belo-pvc-krilo-detalj": {
+    "w": 1067,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1067
+    ]
+  },
+  "moderna-crna-ulazna-vrata": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "otvorena-vrata-ka-basti": {
+    "w": 1061,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1061
+    ]
+  },
+  "presek-kutije-roletne": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "realizacija-dnevna-soba-panorama": {
+    "w": 800,
+    "h": 600,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "realizacija-klizna-vrata-dvoriste": {
+    "w": 800,
+    "h": 600,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "realizacija-porodicna-kuca-antracit": {
+    "w": 1600,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "realizacija-stan-visoki-prozori": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "realizacija-terasa-klizni-sistem": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "realizacija-ugaono-zastakljenje-zlatni-hrast": {
+    "w": 800,
+    "h": 600,
+    "widths": [
+      480,
+      800
+    ]
+  },
+  "rolo-komarnik": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "siroki-beli-prozor-basta": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "siva-roletna-na-prozoru": {
+    "w": 1070,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1070
+    ]
+  },
+  "sklopiva-harmonika-vrata-terasa": {
+    "w": 1600,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "spoljna-okapnica": {
+    "w": 540,
+    "h": 540,
+    "widths": [
+      540
+    ]
+  },
+  "ulaz-porodicna-kuca-drvena-vrata": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      480,
+      800,
+      1200,
+      1600
+    ]
+  },
+  "visoka-bela-balkonska-vrata": {
+    "w": 800,
+    "h": 600,
+    "widths": [
+      480,
+      800
+    ]
+  }
+}
